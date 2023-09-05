@@ -21,4 +21,4 @@
 어떻게 마무리해야할지 모르겠는데, [꼭 이 자기소개가 끝나야 할까요?][Recursion]
 
 [구글Recursion]: https://www.google.com/search?q=recursion&oq=recur&sourceid=chrome&ie=UTF-8
-[Recursion]: https://github.com/younghun1124/oss 'Recursion'
+[Recursion]: https://github.com/younghun1124/oss/blob/main/README.md 'Recursion'
