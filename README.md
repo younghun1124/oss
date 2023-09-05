@@ -14,10 +14,11 @@
 <hr/>
 위에는 줄 나누기 html 태그를 넣어봤는데 잘 작동할지 궁금합니다. vscode 편집기에서는 .md 파일이 바로 변환이 되어 보이지는 않는 것 같습니다. 아마 확장프로그램을 안깔아서 그럴거 같습니다.
 
-놀라운사실을 하나 알아냈는데 구글에다가 *Recursion*이라고 검색하면 '이것을 찾으셨나요?' 라고하면서 *Recursion*으로 가는 [링크] [구글Recursion] 를 또 띄워줍니다. 일종의 이스터에그가 아닐까 싶습니다.
+놀라운사실을 하나 알아냈는데 구글에다가 *Recursion*이라고 검색하면 '이것을 찾으셨나요?' 라고하면서 *Recursion*으로 가는 [링크][구글Recursion] 를 또 띄워줍니다. 일종의 이스터에그가 아닐까 싶습니다.
 
-> [Recursion](Recursion.png)
+> ![Recursion](Recursion.png)
 
-어떻게 마무리해야할지 모르겠는데, [이 문서도 재귀로 끝나면 재밌을거같습니다.][Recursion]
+어떻게 마무리해야할지 모르겠는데, [꼭 이 자기소개가 끝나야 할까요?][Recursion]
+
 [구글Recursion]: https://www.google.com/search?q=recursion&oq=recur&sourceid=chrome&ie=UTF-8
 [Recursion]: https://github.com/younghun1124/oss 'Recursion'
